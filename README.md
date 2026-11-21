@@ -12,7 +12,7 @@ Página inicial dos meus projetos: vídeos, ferramentas gratuitas e uma coleçã
 | [Simulador de Juros](https://gard3npt.github.io/simuladorjuros/) | Compara várias simulações de depósitos a prazo, com TANB e juros compostos. |
 | [Calculadora de Juros (Mobile)](https://gard3npt.github.io/calculadorajuros/) | Versão pensada para o telemóvel, com números grandes, instalável como app. |
 | [Caricas Metálicas](https://gard3npt.github.io/caricas_metalicas/) | Catálogo e exposição digital da minha coleção de caricas, com galeria de fotos. |
-| [SC Lab](https://gard3npt.github.io/sc/) | Hub de ligações úteis e calculadoras para facilitar o dia a dia no Lab, da SC. |
+| [SC Lab](https://gard3npt.github.io/sc/) | Hub de ligações úteis e calculadoras para facilitar o dia a dia no Lab. da SC. |
 
 ## O que tem a página
 
